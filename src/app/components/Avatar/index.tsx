@@ -3,6 +3,7 @@ import Image from 'next/image'
 export const Avatar = () => (
   <div>
     <Image
+      className="w-full"
       alt="avatar"
       width={300}
       height={300}

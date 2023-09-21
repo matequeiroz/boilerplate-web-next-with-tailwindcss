@@ -4,6 +4,7 @@ exports[`<Avatar /> should render the avatar component 1`] = `
 <div>
   <img
     alt="avatar"
+    class="w-full"
     data-nimg="1"
     decoding="async"
     height="300"
